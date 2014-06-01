@@ -10,7 +10,7 @@
 
 ## Instructions
 
-Here is your first assignment! You're going to add yourself to the student section of [FlatironSchool.com](http://students.flatironschool.com) and create your own [profile](http://students.flatironschool.com/students/tiffany_peon_profile.html) page. 
+Here is your first assignment! You're going to add yourself to the student section of [FlatironSchool.com](http://ruby005.students.flatironschool.com) and create your own [profile](http://ruby005.students.flatironschool.com/students/tiffany_peon_profile.html) page. 
 
 You will be working in a team of 4 people.  At the end of the project, you'll have 4 new html files in the students directory one for each student.
 
