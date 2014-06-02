@@ -52,7 +52,7 @@ Please read/skim this whole document before starting. Here's a few helpful tips.
 
 Note: Anywhere you see "yourname" please don't literally type this, please insert your actual name
 - Clone the students website to your code directory.
-  - `git clone git@github.com:flatiron-school-students/deploy-on-day-1-ruby-005.git`
+  - `git clone https://github.com/flatiron-school-students/deploy-on-day-1-ruby-005.git`
 - cd into the directory you just cloned
   - `cd deploy-on-day-1-ruby-005`
 - Create a feature branch for your profile
