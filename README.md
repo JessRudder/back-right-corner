@@ -98,6 +98,8 @@ For example: https://gist.github.com/aviflombaum/015ee85d38e9009e012f
 ## Resources
 Here are some Git workflow tutorials you can check out.  Don't get bogged down in Git!
 
+- [Cheat Sheet](http://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
+
 - http://scottchacon.com/2011/08/31/github-flow.html
 
 - https://github.com/diaspora/diaspora/wiki/Git-Workflow
